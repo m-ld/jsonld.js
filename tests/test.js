@@ -79,7 +79,6 @@ if(process.env.JSONLD_TESTS) {
   // other tests
   entries.push(path.resolve(_top, 'tests/misc.js'));
   entries.push(path.resolve(_top, 'tests/graph-container.js'));
-  entries.push(path.resolve(_top, 'tests/node-document-loader-tests.js'));
 }
 
 let benchmark = null;

@@ -1,5 +1,5 @@
 {
-  "name": "jsonld",
+  "name": "@m-ld/jsonld",
   "version": "6.0.0",
   "description": "A JSON-LD Processor and API implementation in JavaScript.",
   "homepage": "https://github.com/digitalbazaar/jsonld.js",
@@ -29,7 +29,6 @@
     "lib/**/*.js"
   ],
   "dependencies": {
-    "@digitalbazaar/http-client": "^3.2.0",
     "canonicalize": "^1.0.1",
     "lru-cache": "^6.0.0",
     "rdf-canonize": "^3.0.0"
