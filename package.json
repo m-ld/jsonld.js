@@ -27,7 +27,8 @@
     "dist/*.js",
     "dist/*.js.map",
     "lib/*.js",
-    "lib/**/*.js"
+    "lib/**/*.js",
+    "types/**/*.d.ts"
   ],
   "dependencies": {
     "canonicalize": "^1.0.1",
